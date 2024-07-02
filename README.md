@@ -1,1 +1,0 @@
-# multi-modal-rag-claude3-sonnet
